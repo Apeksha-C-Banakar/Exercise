@@ -1,0 +1,66 @@
+{
+  "uuid": "e4f112cb-94cb-4ad7-a2c3-53a7e6897b76",
+  "historyId": "c85b136b2c13d4a92fd13e48c595bd53",
+  "testCaseId": "a8c6a48c53a3d46f459f1e52b4aeda30",
+  "fullName": "LabSessionNUnint:LabSessionNUnint.XYZBank.NUnitExample.CustomerLogin(System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOIW8VLUPTZC7"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "LabSessionNUnint.XYZBank"
+    },
+    {
+      "name": "testMethod",
+      "value": "CustomerLogin"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitExample"
+    },
+    {
+      "name": "tag",
+      "value": "Login"
+    },
+    {
+      "name": "tag",
+      "value": "BankXYZ"
+    }
+  ],
+  "links": [],
+  "name": "CustomerLogin(\"user2\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This is a Bank Registration Website\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "1d4819d8-78e8-4697-aa7f-11c592c0d57b-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "username",
+      "value": "\"user2\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734076136020,
+  "stop": 1734076136038
+}

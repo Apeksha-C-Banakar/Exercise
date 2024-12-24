@@ -1,0 +1,12 @@
+{
+  "uuid": "a71ee4e4-3751-4367-9510-efadc2c2332a",
+  "name": "LabSessionNUnint.XYZBank.NUnitExample.CustomerLogin(\"user2\")",
+  "children": [
+    "9aa684fe-7dd0-4d33-87af-0f6e9dc70a81"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734076273353,
+  "stop": 1734076273387
+}

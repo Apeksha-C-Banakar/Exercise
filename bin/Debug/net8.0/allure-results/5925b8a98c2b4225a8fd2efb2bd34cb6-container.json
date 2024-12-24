@@ -1,0 +1,13 @@
+{
+  "uuid": "5673b4a9-b4cf-4de5-9139-ef1d38c97cc6",
+  "name": "LabSessionNUnint.XYZBank.NUnitExample",
+  "children": [
+    "9aa684fe-7dd0-4d33-87af-0f6e9dc70a81",
+    "2f9994bd-d6be-4904-afca-4552bd7d9a12"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734076273341,
+  "stop": 1734076273413
+}

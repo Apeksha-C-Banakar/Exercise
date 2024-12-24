@@ -1,0 +1,66 @@
+{
+  "uuid": "204d430e-73a9-4c80-86a8-4a69ffbaa007",
+  "historyId": "7bdcd4488ffeb2aa72ed652a7c071097",
+  "testCaseId": "4f85665272432c94ac61f00f96ce4650",
+  "fullName": "LabSessionNUnint:LabSessionNUnint.XYZBank.NUnitExample.userreg(System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOIW8VLUPTZC7"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "LabSessionNUnint.XYZBank"
+    },
+    {
+      "name": "testMethod",
+      "value": "userreg"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitExample"
+    },
+    {
+      "name": "tag",
+      "value": "Manager"
+    },
+    {
+      "name": "tag",
+      "value": "BankXYZ"
+    }
+  ],
+  "links": [],
+  "name": "userreg(\"apeksha\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This is a Bank Registration Website\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "b0a31f28-9228-44ac-929c-03e7829d2836-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "username",
+      "value": "\"apeksha\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734076074260,
+  "stop": 1734076074275
+}

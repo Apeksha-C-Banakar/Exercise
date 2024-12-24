@@ -1,0 +1,12 @@
+{
+  "uuid": "38b2f347-45aa-41f1-9255-4d6914d26b7a",
+  "name": "LabSessionNUnint.XYZBank.NUnitExample.userreg(\"apeksha\")",
+  "children": [
+    "204d430e-73a9-4c80-86a8-4a69ffbaa007"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734076074260,
+  "stop": 1734076074280
+}
